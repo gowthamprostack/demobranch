@@ -5,6 +5,7 @@
 public class Basicone {
 	 void m(Basicone obj){  
 		  System.out.println("method is invoked");  
+		  System.out.println("method is invoked");  
 		  }  
 		  void p(){  
 		  m(this);  
